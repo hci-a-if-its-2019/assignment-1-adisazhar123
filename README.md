@@ -136,3 +136,11 @@ Aku udah masukkin password lumayan dengan berbagai karakter yang berbeda tetapi 
 # References
 
 - *4th Meeting, Contextual Analysis, Powerpoint Slide*
+
+# Remarks
+> * Thanks for completing all the parts in this assignment. Well done!
+> * One little note: You should not reveal or expose the participant's name on the report.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 1                | 0               | 83                 | 75,5       | 81,5  |
